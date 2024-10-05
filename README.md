@@ -1,4 +1,4 @@
 # snakegame
 
 
-<h1  style="background : linear-gradient(90deg , red ,blue)">IT IS MADE USING HTML AND CSS</h1>
+<h1  style="color : red ; ">IT IS MADE USING HTML,CSS AND JAVASCRIPT</h1>
